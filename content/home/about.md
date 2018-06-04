@@ -10,31 +10,29 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Statistics", 
+    "Survival Analysis",
+    "Information Geometry"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Statistics"
+  institution = "National University of Mexico"
+  year = 2006
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MSc in Statistics"
+  institution = "National University of Mexico"
+  year = 2001
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Acturial Science"
+  institution = "ITAM Mexico"
+  year = 2000
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a Lecturer in Statistics in the [Department of Mathematical Sciences](http://www.bath.ac.uk/math-sci) at the [University of Bath](www.bath.ac.uk). I was research fellow at the [Department of Statistics in the Open University](http://www.mathematics.open.ac.uk/research/statistics) in Milton Keynes and then Lecturer in Medical Statistics within the [Tropical Epidemiology Group](http://teg.lshtm.ac.uk) based at the [London School of Hygiene and Tropical Medicine](https://www.lshtm.ac.uk) before coming to the University of Bath in September 2013.
