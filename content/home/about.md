@@ -35,4 +35,4 @@ weight = 5
 
 # Biography
 
-I am a Lecturer in Statistics in the [Department of Mathematical Sciences](http://www.bath.ac.uk/math-sci) at the [University of Bath](www.bath.ac.uk). I was research fellow at the [Department of Statistics in the Open University](http://www.mathematics.open.ac.uk/research/statistics) in Milton Keynes and then Lecturer in Medical Statistics within the [Tropical Epidemiology Group](http://teg.lshtm.ac.uk) based at the [London School of Hygiene and Tropical Medicine](https://www.lshtm.ac.uk) before coming to the University of Bath in September 2013.
+I am a Lecturer in Statistics in the [Department of Mathematical Sciences](https://www.bath.ac.uk/math-sci) at the [University of Bath](https://www.bath.ac.uk). I was research fellow at the [Department of Statistics in the Open University](https://www.mathematics.open.ac.uk/research/statistics) in Milton Keynes and then Lecturer in Medical Statistics within the [Tropical Epidemiology Group](https://teg.lshtm.ac.uk) based at the [London School of Hygiene and Tropical Medicine](https://www.lshtm.ac.uk) before coming to the University of Bath in September 2013.
