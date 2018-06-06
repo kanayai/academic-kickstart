@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Karim Anaya-Izquierdo</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Karim Anaya-Izquierdo</description>
+    <title>Information Geometry on Karim Anaya-Izquierdo</title>
+    <link>/tags/information-geometry/</link>
+    <description>Recent content in Information Geometry on Karim Anaya-Izquierdo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Karim Anaya-Izquierdo 2018</copyright>
     <lastBuildDate>Wed, 06 Jun 2018 16:51:59 +0100</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/information-geometry/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Information Geometry</title>
-      <link>/tags/information-geometry/</link>
+      <title>Towards the Geometry of Model Sensitivity: An Illustration</title>
+      <link>/publication/sensitivity/</link>
       <pubDate>Wed, 06 Jun 2018 16:51:59 +0100</pubDate>
       
-      <guid>/tags/information-geometry/</guid>
+      <guid>/publication/sensitivity/</guid>
       <description></description>
     </item>
     
