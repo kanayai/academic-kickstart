@@ -1,5 +1,12 @@
 .idea/
 .Rproj.user
+.Rhistory
+.RData
+.Ruserdata
 blogdown
-.DS_Store # if a windows user, Thumbs.db instead
+.DS_Store 
 public/ # if using Netlify
+
+
+
+
