@@ -14,7 +14,7 @@ abstract_short = ""
 
 # Name of event and optional event URL.
 event = "37th International Workshop on Bayesian Inference and Maximum Entropy Methods in Science and Engineering"
-event_url = "http://www.gis.des.ufscar.br/meetings/2017maxent/index.php"
+event_url = "http://www.gis.des.ufscar.br/meetings/2017maxent"
 
 # Location of event.
 location = "Jarinu/SP – Brazil"
