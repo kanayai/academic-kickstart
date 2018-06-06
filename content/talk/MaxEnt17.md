@@ -6,7 +6,7 @@ draft = false
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 time_start = 2018-06-06T17:41:16+01:00
-time_end = 2018-06-06T17:41:16+01:00
+#time_end = 2018-06-06T17:41:16+01:00
 
 # Abstract and optional shortened version.
 abstract = "In this talk we introduce a new methodology for inference in survival analysis where the key building block is the cumulative hazard function. We exploit novel analytical properties that allow the cumulative hazard function (rather than the hazard rate) to serve as a swift modelling tool to construct new and flexible parametric families of distributions. We will show that the new constructions recover and generalise classical survival models such as the Proportional Hazards and Accelerated Failure Time models and apply the new methodology to English transplant data."
