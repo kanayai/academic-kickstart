@@ -11,4 +11,4 @@ header:
 ---
 
 
-Here we use some $\LaTeX$
+Here we use some $$\LaTeX$$
