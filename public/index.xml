@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Self-Controlled Case Series Analysis With Event-Dependent Observation Periods</title>
+      <link>/publication/case_series/</link>
+      <pubDate>Wed, 06 Jun 2018 17:31:01 +0100</pubDate>
+      
+      <guid>/publication/case_series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>On the Geometric Interplay Between Goodness-of-Fit and Estimation: Illustrative Examples</title>
       <link>/publication/geometricgof/</link>
       <pubDate>Wed, 06 Jun 2018 17:25:03 +0100</pubDate>
