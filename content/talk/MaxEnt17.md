@@ -12,8 +12,8 @@ time_start = 2018-06-06T17:41:16+01:00
 abstract = "In this talk we introduce a new methodology for inference in survival analysis where the key building block is the cumulative hazard function. We exploit novel analytical properties that allow the cumulative hazard function (rather than the hazard rate) to serve as a swift modelling tool to construct new and flexible parametric families of distributions. We will show that the new constructions recover and generalise classical survival models such as the Proportional Hazards and Accelerated Failure Time models and apply the new methodology to English transplant data."
 abstract_short = ""
 
-# Name of event and optional event URL.
-event = "37th International Workshop on Bayesian Inference and Maximum Entropy Methods in Science and Engineering"
+# Name of event and optional event URL
+event = "37th International Workshop on BayesianInference and Maximum Entropy Methods in Science and Engineering"
 event_url = "http://www.gis.des.ufscar.br/meetings/2017maxent"
 
 # Location of event.
