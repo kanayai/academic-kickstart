@@ -39,7 +39,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Information Geometry"]
 
 # Links (optional).
 url_pdf = "https://link.springer.com/chapter/10.1007/978-3-319-47058-0_3"
