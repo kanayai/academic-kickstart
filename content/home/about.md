@@ -12,7 +12,8 @@ weight = 5
   interests = [
     "Statistics", 
     "Survival Analysis",
-    "Information Geometry"
+    "Information Geometry",
+    "Statistical Engineering"
   ]
 
 # List your qualifications (such as academic degrees).
