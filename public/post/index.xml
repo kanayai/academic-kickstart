@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>A bit of Maths in Latex (test post)</title>
+      <link>/post/a-bit-of-maths-in-latex-test-post/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/a-bit-of-maths-in-latex-test-post/</guid>
+      <description>Here we use some \[\LaTeX\]</description>
+    </item>
+    
+    <item>
       <title>Another test</title>
       <link>/post/another-test/</link>
       <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>

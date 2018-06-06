@@ -41,6 +41,15 @@
     
     <url>
     
+      <loc>/post/a-bit-of-maths-in-latex-test-post/</loc>
+      <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/another-test/</loc>
       <lastmod>2018-06-06T00:00:00+00:00</lastmod>
     </url>
@@ -147,6 +156,16 @@
     
       <loc>/publication_types/</loc>
       <lastmod>2018-06-06T17:31:01+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/survival-analysis/</loc>
+      <lastmod>2018-06-06T17:41:16+01:00</lastmod>
       <priority>0</priority>
     </url>
     

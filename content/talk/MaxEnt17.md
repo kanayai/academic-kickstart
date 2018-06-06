@@ -17,7 +17,7 @@ event = "37th International Workshop on BayesianInference and Maximum Entropy Me
 event_url = "http://www.gis.des.ufscar.br/meetings/2017maxent"
 
 # Location of event.
-location = "Jarinu/SP – Brazil"
+location = "Jarinu/Sao Palo, Brazil"
 
 # Is this a selected talk? (true/false)
 selected = true
@@ -30,7 +30,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Survival Analysis""]
+tags = ["Survival Analysis"]
 
 # Links (optional).
 url_pdf = ""
