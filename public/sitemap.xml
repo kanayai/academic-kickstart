@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/publication/relative_frailty/</loc>
+      <lastmod>2018-06-06T18:14:43+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/talk/maxent17/</loc>
       <lastmod>2018-06-06T17:41:16+01:00</lastmod>
     </url>
@@ -95,6 +104,16 @@
     
     <url>
     
+      <loc>/publication_types/0/</loc>
+      <lastmod>2018-06-06T18:14:43+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication_types/2/</loc>
       <lastmod>2018-06-06T17:31:01+01:00</lastmod>
       <priority>0</priority>
@@ -155,7 +174,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2018-06-06T17:31:01+01:00</lastmod>
+      <lastmod>2018-06-06T18:14:43+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -165,7 +184,7 @@
     <url>
     
       <loc>/tags/survival-analysis/</loc>
-      <lastmod>2018-06-06T17:41:16+01:00</lastmod>
+      <lastmod>2018-06-06T18:14:43+01:00</lastmod>
       <priority>0</priority>
     </url>
     
