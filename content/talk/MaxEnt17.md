@@ -20,7 +20,7 @@ event_url = "http://www.gis.des.ufscar.br/meetings/2017maxent/index.php"
 location = "Jarinu/SP – Brazil"
 
 # Is this a selected talk? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
@@ -39,7 +39,7 @@ url_video = "https://www.youtube.com/watch?v=5HQ5kop5uOE&t=179s"
 url_code = ""
 
 # Does the content use math formatting?
-math = false
+math = true
 
 # Does the content use source code highlighting?
 highlight = true
