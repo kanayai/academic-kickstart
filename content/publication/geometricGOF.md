@@ -1,6 +1,6 @@
 +++
 title = "On the Geometric Interplay Between Goodness-of-Fit and Estimation: Illustrative Examples"
-date = 2018-06-06T17:25:03+01:00
+date = 2017-01-06T17:25:03+01:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

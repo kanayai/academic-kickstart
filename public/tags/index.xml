@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Karim Anaya-Izquierdo 2018</copyright>
-    <lastBuildDate>Wed, 06 Jun 2018 17:31:01 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jun 2011 17:31:01 +0100</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Case series</title>
       <link>/tags/case-series/</link>
-      <pubDate>Wed, 06 Jun 2018 17:31:01 +0100</pubDate>
+      <pubDate>Mon, 06 Jun 2011 17:31:01 +0100</pubDate>
       
       <guid>/tags/case-series/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Information Geometry</title>
       <link>/tags/information-geometry/</link>
-      <pubDate>Wed, 06 Jun 2018 16:51:59 +0100</pubDate>
+      <pubDate>Fri, 06 Jan 2017 16:51:59 +0100</pubDate>
       
       <guid>/tags/information-geometry/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Survival Analysis</title>
       <link>/tags/survival-analysis/</link>
-      <pubDate>Wed, 06 Jun 2018 18:14:43 +0100</pubDate>
+      <pubDate>Wed, 06 Jun 2018 17:41:16 +0100</pubDate>
       
       <guid>/tags/survival-analysis/</guid>
       <description></description>

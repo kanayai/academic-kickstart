@@ -1,6 +1,6 @@
 +++
 title = "Towards the Geometry of Model Sensitivity: An Illustration"
-date = 2018-06-06T16:51:59+01:00
+date = 2017-01-06T16:51:59+01:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

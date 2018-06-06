@@ -1,6 +1,6 @@
 +++
 title = "The relative frailty variance and shared frailty models"
-date = 2018-06-06T18:14:43+01:00
+date = 2012-09-06T18:14:43+01:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,10 +15,10 @@ authors = ["C.P. Farrington", "S. Unkel", "K. Anaya-Izquierdo"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["0"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Biometrika"
+publication = "Journal of the Royal Statistical Society: Series B - Statistical Methodology"
 publication_short = ""
 
 # Abstract and optional shortened version.

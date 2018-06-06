@@ -5,44 +5,8 @@
     
     <url>
     
-      <loc>/publication/relative_frailty/</loc>
-      <lastmod>2018-06-06T18:14:43+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/talk/maxent17/</loc>
       <lastmod>2018-06-06T17:41:16+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication/case_series/</loc>
-      <lastmod>2018-06-06T17:31:01+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication/geometricgof/</loc>
-      <lastmod>2018-06-06T17:25:03+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication/sensitivity/</loc>
-      <lastmod>2018-06-06T16:51:59+01:00</lastmod>
     </url>
     
   
@@ -77,6 +41,24 @@
     
     <url>
     
+      <loc>/publication/geometricgof/</loc>
+      <lastmod>2017-01-06T17:25:03+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/sensitivity/</loc>
+      <lastmod>2017-01-06T16:51:59+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -104,9 +86,17 @@
     
     <url>
     
-      <loc>/publication_types/0/</loc>
-      <lastmod>2018-06-06T18:14:43+01:00</lastmod>
-      <priority>0</priority>
+      <loc>/publication/relative_frailty/</loc>
+      <lastmod>2012-09-06T18:14:43+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/case_series/</loc>
+      <lastmod>2011-06-06T17:31:01+01:00</lastmod>
     </url>
     
   
@@ -115,7 +105,7 @@
     <url>
     
       <loc>/publication_types/2/</loc>
-      <lastmod>2018-06-06T17:31:01+01:00</lastmod>
+      <lastmod>2012-09-06T18:14:43+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -125,7 +115,7 @@
     <url>
     
       <loc>/publication_types/6/</loc>
-      <lastmod>2018-06-06T17:25:03+01:00</lastmod>
+      <lastmod>2017-01-06T17:25:03+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -135,7 +125,7 @@
     <url>
     
       <loc>/tags/case-series/</loc>
-      <lastmod>2018-06-06T17:31:01+01:00</lastmod>
+      <lastmod>2011-06-06T17:31:01+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -154,7 +144,7 @@
     <url>
     
       <loc>/tags/information-geometry/</loc>
-      <lastmod>2018-06-06T16:51:59+01:00</lastmod>
+      <lastmod>2017-01-06T16:51:59+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -174,7 +164,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2018-06-06T18:14:43+01:00</lastmod>
+      <lastmod>2012-09-06T18:14:43+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -184,7 +174,7 @@
     <url>
     
       <loc>/tags/survival-analysis/</loc>
-      <lastmod>2018-06-06T18:14:43+01:00</lastmod>
+      <lastmod>2018-06-06T17:41:16+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -194,7 +184,7 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2018-06-06T17:31:01+01:00</lastmod>
+      <lastmod>2011-06-06T17:31:01+01:00</lastmod>
       <priority>0</priority>
     </url>
     

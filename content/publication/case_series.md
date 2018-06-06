@@ -1,6 +1,6 @@
 +++
 title = "Self-Controlled Case Series Analysis With Event-Dependent Observation Periods"
-date = 2018-06-06T17:31:01+01:00
+date = 2011-06-06T17:31:01+01:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
