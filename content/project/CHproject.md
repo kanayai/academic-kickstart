@@ -1,5 +1,5 @@
 +++
-title = "Cumulative Hazard"
+title = "Models for time-to-event data using the cumulative hazard function"
 date = 2018-06-07T17:47:36+01:00
 draft = false
 
