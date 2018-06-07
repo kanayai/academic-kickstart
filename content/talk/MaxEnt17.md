@@ -1,5 +1,5 @@
 +++
-title = "MaxEnt17"
+title = "MaxEnt 2017"
 date = 2018-06-06T17:41:16+01:00  # Schedule page publish date.
 draft = false
 
