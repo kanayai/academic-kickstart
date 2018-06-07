@@ -1,12 +1,12 @@
 +++
 title = "Sinape 2018"
-date = 2018-09-23  # Schedule page publish date.
+date = 2018-09-23T17:41:16+01:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-09-23
-time_end = 2018-09-28
+time_start = 2018-09-23T17:41:16+01:00
+#time_end = 2018-09-28
 
 # Abstract and optional shortened version.
 abstract = "I will be talking about frailty models in Survival Analysis"
