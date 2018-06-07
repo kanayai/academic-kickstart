@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Karim Anaya-Izquierdo</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Karim Anaya-Izquierdo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Karim Anaya-Izquierdo 2018</copyright>
+    <lastBuildDate>Thu, 07 Jun 2018 17:47:36 +0100</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cumulative Hazard</title>
+      <link>/project/chproject/</link>
+      <pubDate>Thu, 07 Jun 2018 17:47:36 +0100</pubDate>
+      
+      <guid>/project/chproject/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

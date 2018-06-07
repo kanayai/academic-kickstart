@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/project/chproject/</loc>
+      <lastmod>2018-06-07T17:47:36+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/talk/maxent17/</loc>
       <lastmod>2018-06-06T17:41:16+01:00</lastmod>
     </url>
@@ -164,6 +173,16 @@
     
       <loc>/</loc>
       <lastmod>2016-04-20T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/</loc>
+      <lastmod>2018-06-07T17:47:36+01:00</lastmod>
       <priority>0</priority>
     </url>
     

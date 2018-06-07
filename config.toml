@@ -69,6 +69,7 @@ enableGitInfo = false
   phone = "+44 (0) 1225 38 4644"
   skype = ""
   telegram = ""
+  github = "kanayai"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""

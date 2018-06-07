@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Cumulative Hazard</title>
+      <link>/project/chproject/</link>
+      <pubDate>Thu, 07 Jun 2018 17:47:36 +0100</pubDate>
+      
+      <guid>/project/chproject/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MaxEnt 2017</title>
       <link>/talk/maxent17/</link>
       <pubDate>Wed, 06 Jun 2018 17:41:16 +0100</pubDate>
