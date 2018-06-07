@@ -1,5 +1,5 @@
 +++
-title = "Sinape 2018"
+title = "Sinape 2018 (upcoming)"
 date = 2018-05-23T17:41:16+01:00  # Schedule page publish date.
 draft = false
 

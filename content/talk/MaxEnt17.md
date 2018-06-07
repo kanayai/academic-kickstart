@@ -35,7 +35,7 @@ tags = ["Survival Analysis"]
 # Links (optional).
 url_pdf = ""
 url_slides = ""
-url_video = "https://www.youtube.com/watch?v=5HQ5kop5uOE&t=179s"
+#url_video = "https://www.youtube.com/watch?v=5HQ5kop5uOE&t=179s"
 url_code = ""
 
 # Does the content use math formatting?
