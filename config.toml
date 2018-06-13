@@ -238,6 +238,11 @@ enableGitInfo = false
     icon = "arxiv"
     icon_pack = "ai"
     link = "https://arxiv.org/a/anayaizquierdo_k_1.html"
+    
+    [[params.social]]
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "https://orcid.org/0000-0001-9718-5256"
 
   [[params.social]]
     icon = "google-scholar"
@@ -289,15 +294,11 @@ enableGitInfo = false
   url = "#teaching"
   weight = 6
   
-[[menu.main]]
-  name = "Hero"
-  url = "#hero"
-  weight = 7
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 8
+  weight = 7
 
 # Taxonomies.
 [taxonomies]
