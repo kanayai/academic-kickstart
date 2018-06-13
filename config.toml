@@ -290,7 +290,7 @@ enableGitInfo = false
   weight = 6
 
 [[menu.main]]
-  name = "Manifestos"
+  name = "Manifestoes"
   url = "#about2"
   weight = 7
 
