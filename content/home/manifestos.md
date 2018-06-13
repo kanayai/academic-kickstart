@@ -12,19 +12,26 @@ weight = 12
 
 +++
 
-# Stats manifesto
-
-* Unreproducible code for reproducible research
+# Stats 
 
 * Let the data speak 
 
-# Science manifesto
+# Science 
 
-* Think (a bit) then write  
+* Do first!  then think
 
-# Personal manifesto
+* Do simple!  then build up 
 
-* a
+* Think! but only think a bit! then write it down 
 
-* a
+* Read! but don't read too much
+
+* Do it today! don't procrastinate! 
+
+
+# Personal 
+
+
+
+
 
