@@ -289,7 +289,7 @@ enableGitInfo = false
   url = "#teaching"
   weight = 6
   
-  [[menu.main]]
+[[menu.main]]
   name = "Hero"
   url = "#hero"
   weight = 7
