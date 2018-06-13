@@ -1,5 +1,6 @@
 +++
 title = "Manif"
+widget = "mainfs"
 date = 2018-06-13T15:05:47+01:00
 draft = false
 

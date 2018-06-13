@@ -26,5 +26,14 @@
   </description>
     </item>
     
+    <item>
+      <title></title>
+      <link>/manifestos/hero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/manifestos/hero/</guid>
+      <description>&amp;lt;!DOCTYPE html&amp;gt;  hugo-academic/hero.md at master · gcushen/hugo-academic &amp;lt;meta property=&amp;quot;og:image&amp;quot; content=&amp;quot;https://avatars1.githubusercontent.com/u/7537639?s=400&amp;amp;amp;v=4&amp;quot; /&amp;gt;&amp;lt;meta property=&amp;quot;og:site_name&amp;quot; content=&amp;quot;GitHub&amp;quot; /&amp;gt;&amp;lt;meta property=&amp;quot;og:type&amp;quot; content=&amp;quot;object&amp;quot; /&amp;gt;&amp;lt;meta property=&amp;quot;og:title&amp;quot; content=&amp;quot;gcushen/hugo-academic&amp;quot; /&amp;gt;&amp;lt;meta property=&amp;quot;og:url&amp;quot; content=&amp;quot;https://github.com/gcushen/hugo-academic&amp;quot; /&amp;gt;&amp;lt;meta property=&amp;quot;og:description&amp;quot; content=&amp;quot;hugo-academic - The website designer for Hugo. Build and deploy a beautiful website in minutes 🚀&amp;quot; /&amp;gt;  &amp;lt;meta name=&amp;quot;google-site-verification&amp;quot; content=&amp;quot;KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU&amp;quot;&amp;gt;   &amp;lt;meta name=&amp;quot;hostname&amp;quot; content=&amp;quot;github.com&amp;quot;&amp;gt; &amp;lt;meta name=&amp;quot;user-login&amp;quot; content=&amp;quot;kanayai&amp;quot;&amp;gt; &amp;lt;meta name=&amp;quot;expected-hostname&amp;quot; content=&amp;quot;github.com&amp;quot;&amp;gt; &amp;lt;meta name=&amp;quot;js-proxy-site-detection-payload&amp;quot; content=&amp;quot;OTAzOGI5MmJiODdkMGMyNTBkNGZlYWM5YTU4NGQ0YzhiYjYxM2U1MTJhYmExMWM4NGJlMzgzNGI1NjBkYTI4Znx7InJlbW90ZV9hZGRyZXNzIjoiMTM4LjM4LjEwNi4xMzEiLCJyZXF1ZXN0X2lkIjoiREM4NDozNUJDOjhCRjdFRToxMEYzM0VGOjVCMjEyODZCIiwidGltZXN0YW1wIjoxNTI4ODk5NjkyLCJob3N0IjoiZ2l0aHViLmNvbSJ9&amp;quot;&amp;gt; &amp;lt;meta name=&amp;quot;enabled-features&amp;quot; content=&amp;quot;UNIVERSE_BANNER,FREE_TRIALS,MARKETPLACE_INSIGHTS,MARKETPLACE_INSIGHTS_CONVERSION_PERCENTAGES&amp;quot;&amp;gt;   &amp;lt;link href=&amp;quot;https://github.com/gcushen/hugo-academic/commits/master.atom&amp;quot; rel=&amp;quot;alternate&amp;quot; title=&amp;quot;Recent Commits to hugo-academic:master&amp;quot; type=&amp;quot;application/atom+xml&amp;quot;&amp;gt;  &amp;lt;link rel=&amp;quot;canonical&amp;quot; href=&amp;quot;https://github.</description>
+    </item>
+    
   </channel>
 </rss>
