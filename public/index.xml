@@ -11,11 +11,11 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title></title>
-      <link>/manifestos/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      <title>Manif</title>
+      <link>/manifestos/manif/</link>
+      <pubDate>Wed, 13 Jun 2018 15:05:47 +0100</pubDate>
       
-      <guid>/manifestos/about/</guid>
+      <guid>/manifestos/manif/</guid>
       <description>
 
 &lt;h1 id=&#34;my-stats-manifesto&#34;&gt;My Stats manifesto&lt;/h1&gt;

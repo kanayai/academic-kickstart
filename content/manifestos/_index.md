@@ -1,5 +1,5 @@
 +++
 title = "Manifestos"
-date = 2017-01-01T00:00:00
+date = 2017-01-01
 widgets = true
 +++
