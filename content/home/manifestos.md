@@ -26,12 +26,9 @@ weight = 12
 
 * Read! but don't read too much
 
-* Do it today! don't procrastinate! 
-
-
 # Personal 
 
-
+* Do it today! don't procrastinate! 
 
 
 
