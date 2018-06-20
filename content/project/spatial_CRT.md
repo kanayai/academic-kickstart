@@ -28,5 +28,5 @@ highlight = true
 [header]
 image = "map.jpg"
 caption = "CRT"
-hola
+hola amigos
 +++
