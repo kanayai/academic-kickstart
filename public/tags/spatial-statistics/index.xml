@@ -18,7 +18,8 @@
       <pubDate>Wed, 20 Jun 2018 11:40:53 +0100</pubDate>
       
       <guid>/project/spatial_crt/</guid>
-      <description></description>
+      <description>Geographically demarcated clusters are the most common choice for cluster-randomised trials (CRTs). At the design stage, the clusters should ideally be sufficiently far apart to render spatial correlation negligible. This may be impractical, however, since some outcomes are correlated at the scale of tens of kilometres. Hence there may be a need for post hoc analysis taking the spatial distribution into account. We distinguish the following two effects:
+ Spillover dependence: cross-cluster correlation between individual outcomes</description>
     </item>
     
   </channel>

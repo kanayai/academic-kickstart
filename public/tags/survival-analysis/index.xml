@@ -18,7 +18,7 @@
       <pubDate>Thu, 07 Jun 2018 17:47:36 +0100</pubDate>
       
       <guid>/project/chproject/</guid>
-      <description></description>
+      <description>This project looks at developing new statistical models for time-to-event data analysis that exploit the analytical and numerical properties of an overlooked key function: the cumulative hazard function. These analytical properties are very powerful and well understood from the mathematical point of view but, perhaps surprisingly, they have not been so far fully exploited for statistical modelling so this project this comprises a very promising new tool. The project will look at both methodological and computational aspects as well as univariate, multivariate and regression modelling.</description>
     </item>
     
     <item>
