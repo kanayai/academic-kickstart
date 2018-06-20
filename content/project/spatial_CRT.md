@@ -25,8 +25,8 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "map.jpg"
-caption = "CRT"
+image = ""
+caption = ""
 +++
 
 Geographically demarcated clusters are the most common choice for cluster-randomised trials (CRTs).  At the design stage, the clusters should ideally be sufficiently far apart to render spatial correlation negligible.  This may be impractical, however, since some outcomes are correlated at the scale of tens of kilometres. Hence there may be a need for post hoc analysis taking the spatial distribution into account.  We distinguish the following two effects:
