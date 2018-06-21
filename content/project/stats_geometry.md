@@ -1,5 +1,5 @@
 +++
-title = "Information Geometry"
+title = "Computational Information Geometry"
 date = 2018-06-21T08:53:52+01:00
 draft = false
 
