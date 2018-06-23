@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R coding on Karim Anaya-Izquierdo</title>
+    <link>/tags/r-coding/</link>
+    <description>Recent content in R coding on Karim Anaya-Izquierdo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Karim Anaya-Izquierdo 2018</copyright>
+    <lastBuildDate>Sat, 23 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/r-coding/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multiple graphs with ggplot</title>
+      <link>/post/learning-ggplot/</link>
+      <pubDate>Sat, 23 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/learning-ggplot/</guid>
+      <description>So, I am learning how to use ggplot. Here is one my first attempts and at the same time I discover that you need to use the gridExtra package to layout multiople ggplots. I am using one of my favourite datasets: the Anscombe quartet
+library(ggplot2) library(grid) library(gridExtra) data(anscombe) The quartet comprises four datasets that have nearly identical simple descriptive statistics, yet appear very different when graphed.
+p1&amp;lt;-ggplot(anscombe,aes(x1,y1))+geom_point()+geom_smooth(method=&amp;quot;lm&amp;quot;,se=FALSE,color=&amp;quot;red&amp;quot;)+xlim(3,16) p2&amp;lt;-ggplot(anscombe,aes(x2,y2))+geom_point()+geom_smooth(method=&amp;quot;lm&amp;quot;,se=FALSE,color=&amp;quot;red&amp;quot;)+xlim(3,16) p3&amp;lt;-ggplot(anscombe,aes(x3,y3))+geom_point()+geom_smooth(method=&amp;quot;lm&amp;quot;,se=FALSE,color=&amp;quot;red&amp;quot;)+xlim(3,16) p4&amp;lt;-ggplot(anscombe,aes(x4,y4))+geom_point()+geom_smooth(method=&amp;quot;lm&amp;quot;,se=FALSE,color=&amp;quot;red&amp;quot;)+xlim(7,20) grid.</description>
+    </item>
+    
+  </channel>
+</rss>
