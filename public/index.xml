@@ -11,12 +11,12 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Learning ggplot</title>
+      <title>Multiple graphs with ggplot</title>
       <link>/post/learning-ggplot/</link>
       <pubDate>Sat, 23 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/learning-ggplot/</guid>
-      <description>&lt;p&gt;So, I am learning how to use &lt;a href=&#34;https://ggplot2.tidyverse.org/reference/&#34;&gt;ggplot&lt;/a&gt;. Here is my first attempt using one of my fav datasets: the &lt;a href=&#34;https://en.wikipedia.org/wiki/Anscombe%27s_quartet&#34;&gt;Anscombe quartet&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;So, I am learning how to use &lt;a href=&#34;https://ggplot2.tidyverse.org/reference/&#34;&gt;ggplot&lt;/a&gt;. Here is one my first attempts. I am using one of my favourite datasets: the &lt;a href=&#34;https://en.wikipedia.org/wiki/Anscombe%27s_quartet&#34;&gt;Anscombe quartet&lt;/a&gt;&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(ggplot2)
 library(grid)
 library(gridExtra)
