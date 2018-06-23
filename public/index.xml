@@ -16,7 +16,7 @@
       <pubDate>Sat, 23 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/learning-ggplot/</guid>
-      <description>&lt;p&gt;So, I am learning how to use &lt;a href=&#34;https://ggplot2.tidyverse.org/reference/&#34;&gt;ggplot&lt;/a&gt;. Here is one my first attempts. I am using one of my favourite datasets: the &lt;a href=&#34;https://en.wikipedia.org/wiki/Anscombe%27s_quartet&#34;&gt;Anscombe quartet&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;So, I am learning how to use &lt;a href=&#34;https://ggplot2.tidyverse.org/reference/&#34;&gt;ggplot&lt;/a&gt;. Here is one my first attempts and at the same time I discover that you need to use the &lt;a href=&#34;https://www.rdocumentation.org/packages/gridExtra/versions/2.3&#34;&gt;gridExtra&lt;/a&gt; package to layout multiople ggplots. I am using one of my favourite datasets: the &lt;a href=&#34;https://en.wikipedia.org/wiki/Anscombe%27s_quartet&#34;&gt;Anscombe quartet&lt;/a&gt;&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(ggplot2)
 library(grid)
 library(gridExtra)
@@ -30,6 +30,19 @@ p4&amp;lt;-ggplot(anscombe,aes(x4,y4))+geom_point()+geom_smooth(method=&amp;quot
 
 grid.arrange(p1,p2,p3,p4,ncol=2)&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;&lt;img src=&#34;/post/2018-06-23-learning-ggplot_files/figure-html/unnamed-chunk-2-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;We can see that the fitted lines are actually almost identical since the summary statistics are almost identical as well.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;coefficients(lm(y1~x1,anscombe))&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## (Intercept)          x1 
+##   3.0000909   0.5000909&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;coefficients(lm(y2~x2,anscombe))&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## (Intercept)          x2 
+##    3.000909    0.500000&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;coefficients(lm(y3~x3,anscombe))&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## (Intercept)          x3 
+##   3.0024545   0.4997273&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;coefficients(lm(y4~x4,anscombe))&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## (Intercept)          x4 
+##   3.0017273   0.4999091&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     

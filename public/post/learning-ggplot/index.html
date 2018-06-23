@@ -17,9 +17,9 @@
       
     
   
-  <meta name="description" content="So, I am learning how to use ggplot. Here is one my first attempts. I am using one of my favourite datasets: the Anscombe quartet
+  <meta name="description" content="So, I am learning how to use ggplot. Here is one my first attempts and at the same time I discover that you need to use the gridExtra package to layout multiople ggplots. I am using one of my favourite datasets: the Anscombe quartet
 library(ggplot2) library(grid) library(gridExtra) data(anscombe) The quartet comprises four datasets that have nearly identical simple descriptive statistics, yet appear very different when graphed.
-p1&lt;-ggplot(anscombe,aes(x1,y1))&#43;geom_point()&#43;geom_smooth(method=&quot;lm&quot;,se=FALSE,color=&quot;red&quot;)&#43;xlim(3,16) p2&lt;-ggplot(anscombe,aes(x2,y2))&#43;geom_point()&#43;geom_smooth(method=&quot;lm&quot;,se=FALSE,color=&quot;red&quot;)&#43;xlim(3,16) p3&lt;-ggplot(anscombe,aes(x3,y3))&#43;geom_point()&#43;geom_smooth(method=&quot;lm&quot;,se=FALSE,color=&quot;red&quot;)&#43;xlim(3,16) p4&lt;-ggplot(anscombe,aes(x4,y4))&#43;geom_point()&#43;geom_smooth(method=&quot;lm&quot;,se=FALSE,color=&quot;red&quot;)&#43;xlim(7,20) grid.arrange(p1,p2,p3,p4,ncol=2) ">
+p1&lt;-ggplot(anscombe,aes(x1,y1))&#43;geom_point()&#43;geom_smooth(method=&quot;lm&quot;,se=FALSE,color=&quot;red&quot;)&#43;xlim(3,16) p2&lt;-ggplot(anscombe,aes(x2,y2))&#43;geom_point()&#43;geom_smooth(method=&quot;lm&quot;,se=FALSE,color=&quot;red&quot;)&#43;xlim(3,16) p3&lt;-ggplot(anscombe,aes(x3,y3))&#43;geom_point()&#43;geom_smooth(method=&quot;lm&quot;,se=FALSE,color=&quot;red&quot;)&#43;xlim(3,16) p4&lt;-ggplot(anscombe,aes(x4,y4))&#43;geom_point()&#43;geom_smooth(method=&quot;lm&quot;,se=FALSE,color=&quot;red&quot;)&#43;xlim(7,20) grid.">
 
   
   <link rel="alternate" hreflang="en-us" href="/post/learning-ggplot/">
@@ -81,9 +81,9 @@ p1&lt;-ggplot(anscombe,aes(x1,y1))&#43;geom_point()&#43;geom_smooth(method=&quot
   <meta property="og:site_name" content="Karim Anaya-Izquierdo">
   <meta property="og:url" content="/post/learning-ggplot/">
   <meta property="og:title" content="Multiple graphs with ggplot | Karim Anaya-Izquierdo">
-  <meta property="og:description" content="So, I am learning how to use ggplot. Here is one my first attempts. I am using one of my favourite datasets: the Anscombe quartet
+  <meta property="og:description" content="So, I am learning how to use ggplot. Here is one my first attempts and at the same time I discover that you need to use the gridExtra package to layout multiople ggplots. I am using one of my favourite datasets: the Anscombe quartet
 library(ggplot2) library(grid) library(gridExtra) data(anscombe) The quartet comprises four datasets that have nearly identical simple descriptive statistics, yet appear very different when graphed.
-p1&lt;-ggplot(anscombe,aes(x1,y1))&#43;geom_point()&#43;geom_smooth(method=&quot;lm&quot;,se=FALSE,color=&quot;red&quot;)&#43;xlim(3,16) p2&lt;-ggplot(anscombe,aes(x2,y2))&#43;geom_point()&#43;geom_smooth(method=&quot;lm&quot;,se=FALSE,color=&quot;red&quot;)&#43;xlim(3,16) p3&lt;-ggplot(anscombe,aes(x3,y3))&#43;geom_point()&#43;geom_smooth(method=&quot;lm&quot;,se=FALSE,color=&quot;red&quot;)&#43;xlim(3,16) p4&lt;-ggplot(anscombe,aes(x4,y4))&#43;geom_point()&#43;geom_smooth(method=&quot;lm&quot;,se=FALSE,color=&quot;red&quot;)&#43;xlim(7,20) grid.arrange(p1,p2,p3,p4,ncol=2) ">
+p1&lt;-ggplot(anscombe,aes(x1,y1))&#43;geom_point()&#43;geom_smooth(method=&quot;lm&quot;,se=FALSE,color=&quot;red&quot;)&#43;xlim(3,16) p2&lt;-ggplot(anscombe,aes(x2,y2))&#43;geom_point()&#43;geom_smooth(method=&quot;lm&quot;,se=FALSE,color=&quot;red&quot;)&#43;xlim(3,16) p3&lt;-ggplot(anscombe,aes(x3,y3))&#43;geom_point()&#43;geom_smooth(method=&quot;lm&quot;,se=FALSE,color=&quot;red&quot;)&#43;xlim(3,16) p4&lt;-ggplot(anscombe,aes(x4,y4))&#43;geom_point()&#43;geom_smooth(method=&quot;lm&quot;,se=FALSE,color=&quot;red&quot;)&#43;xlim(7,20) grid.">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2018-06-23T00:00:00&#43;00:00">
@@ -379,7 +379,7 @@ p1&lt;-ggplot(anscombe,aes(x1,y1))&#43;geom_point()&#43;geom_smooth(method=&quot
 
 
     <div class="article-style" itemprop="articleBody">
-      <p>So, I am learning how to use <a href="https://ggplot2.tidyverse.org/reference/">ggplot</a>. Here is one my first attempts. I am using one of my favourite datasets: the <a href="https://en.wikipedia.org/wiki/Anscombe%27s_quartet">Anscombe quartet</a></p>
+      <p>So, I am learning how to use <a href="https://ggplot2.tidyverse.org/reference/">ggplot</a>. Here is one my first attempts and at the same time I discover that you need to use the <a href="https://www.rdocumentation.org/packages/gridExtra/versions/2.3">gridExtra</a> package to layout multiople ggplots. I am using one of my favourite datasets: the <a href="https://en.wikipedia.org/wiki/Anscombe%27s_quartet">Anscombe quartet</a></p>
 <pre class="r"><code>library(ggplot2)
 library(grid)
 library(gridExtra)
@@ -393,6 +393,19 @@ p4&lt;-ggplot(anscombe,aes(x4,y4))+geom_point()+geom_smooth(method=&quot;lm&quot
 
 grid.arrange(p1,p2,p3,p4,ncol=2)</code></pre>
 <p><img src="/post/2018-06-23-learning-ggplot_files/figure-html/unnamed-chunk-2-1.png" width="672" /></p>
+<p>We can see that the fitted lines are actually almost identical since the summary statistics are almost identical as well.</p>
+<pre class="r"><code>coefficients(lm(y1~x1,anscombe))</code></pre>
+<pre><code>## (Intercept)          x1 
+##   3.0000909   0.5000909</code></pre>
+<pre class="r"><code>coefficients(lm(y2~x2,anscombe))</code></pre>
+<pre><code>## (Intercept)          x2 
+##    3.000909    0.500000</code></pre>
+<pre class="r"><code>coefficients(lm(y3~x3,anscombe))</code></pre>
+<pre><code>## (Intercept)          x3 
+##   3.0024545   0.4997273</code></pre>
+<pre class="r"><code>coefficients(lm(y4~x4,anscombe))</code></pre>
+<pre><code>## (Intercept)          x4 
+##   3.0017273   0.4999091</code></pre>
 
     </div>
 
