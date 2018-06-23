@@ -11,6 +11,38 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Learning ggplot</title>
+      <link>/post/learning-ggplot/</link>
+      <pubDate>Sat, 23 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/learning-ggplot/</guid>
+      <description>&lt;p&gt;So, I am learning how to use &lt;a href=&#34;https://ggplot2.tidyverse.org/reference/&#34;&gt;ggplot&lt;/a&gt;. Here is my first attempt using one of my fav datasets: the &lt;a href=&#34;https://en.wikipedia.org/wiki/Anscombe%27s_quartet&#34;&gt;Anscombe quartet&lt;/a&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(ggplot2)
+library(grid)
+library(gridExtra)
+
+data(anscombe)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The quartet comprises four datasets that have nearly identical simple descriptive statistics, yet appear very different when graphed.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;p1&amp;lt;-ggplot(anscombe,aes(x1,y1))+geom_point()+geom_smooth(method=&amp;quot;lm&amp;quot;,se=FALSE,color=&amp;quot;red&amp;quot;)+xlim(3,16)
+p2&amp;lt;-ggplot(anscombe,aes(x2,y2))+geom_point()+geom_smooth(method=&amp;quot;lm&amp;quot;,se=FALSE,color=&amp;quot;red&amp;quot;)+xlim(3,16)
+p3&amp;lt;-ggplot(anscombe,aes(x3,y3))+geom_point()+geom_smooth(method=&amp;quot;lm&amp;quot;,se=FALSE,color=&amp;quot;red&amp;quot;)+xlim(3,16)
+p4&amp;lt;-ggplot(anscombe,aes(x4,y4))+geom_point()+geom_smooth(method=&amp;quot;lm&amp;quot;,se=FALSE,color=&amp;quot;red&amp;quot;)+xlim(7,20)
+
+grid.arrange(p1,p2,p3,p4,ncol=2)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2018-06-23-learning-ggplot_files/figure-html/unnamed-chunk-2-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fapesp</title>
+      <link>/project/fapesp/</link>
+      <pubDate>Thu, 21 Jun 2018 09:45:16 +0100</pubDate>
+      
+      <guid>/project/fapesp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Computational Information Geometry</title>
       <link>/project/stats_geometry/</link>
       <pubDate>Thu, 21 Jun 2018 08:53:52 +0100</pubDate>

@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Karim Anaya-Izquierdo 2018</copyright>
-    <lastBuildDate>Thu, 21 Jun 2018 08:53:52 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jun 2018 09:45:16 +0100</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fapesp</title>
+      <link>/project/fapesp/</link>
+      <pubDate>Thu, 21 Jun 2018 09:45:16 +0100</pubDate>
+      
+      <guid>/project/fapesp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Computational Information Geometry</title>
