@@ -32,24 +32,5 @@ p1&amp;lt;-ggplot(anscombe,aes(x1,y1))+geom_point()+geom_smooth(method=&amp;quot
       <description>Here we use some \[\LaTeX\]</description>
     </item>
     
-    <item>
-      <title>Another test</title>
-      <link>/post/another-test/</link>
-      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/another-test/</guid>
-      <description>library(ggplot2) n&amp;lt;-1000 x&amp;lt;-rnorm(n) y&amp;lt;-rnorm(n) test&amp;lt;-data.frame(x=x,y=y) aplot&amp;lt;-ggplot(test,aes(x,y))+geom_point() aplot </description>
-    </item>
-    
-    <item>
-      <title>Example simulation</title>
-      <link>/post/example-simulation/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/example-simulation/</guid>
-      <description>This is an example simulation
-x&amp;lt;-runif(100) plot(x)  </description>
-    </item>
-    
   </channel>
 </rss>
