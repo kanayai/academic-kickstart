@@ -1,5 +1,5 @@
 +++
-title = "Reshaping_the_pyramid"
+title = "Reshaping the pyramid"
 date = 2018-10-13T09:45:37+01:00
 draft = false
 
